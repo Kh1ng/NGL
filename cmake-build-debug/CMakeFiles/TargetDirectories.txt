@@ -1,3 +1,0 @@
-/home/khing/dev/ngl/cmake-build-debug/CMakeFiles/ngl.dir
-/home/khing/dev/ngl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/khing/dev/ngl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
